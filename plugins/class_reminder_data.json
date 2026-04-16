@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "groups": {
+    "5436924434": {
+      "settings": {
+        "reminders": [
+          60,
+          720,
+          1440
+        ],
+        "mention_mode": "admins",
+        "timezone": "Asia/Tehran"
+      },
+      "classes": [
+        {
+          "id": "e803485e",
+          "weekday": "شنبه",
+          "title": "مبانی مواد دندانی",
+          "teacher": "",
+          "description": "کلاس‌ها آفلاین خواهند بود.",
+          "link": "",
+          "start_time": null,
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "c87ff04a",
+          "weekday": "یکشنبه",
+          "title": "روش تحقیق",
+          "teacher": "",
+          "description": "",
+          "link": "https://www.skyroom.online/ch/virtualtums/online-session3",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "fc566d1b",
+          "weekday": "دوشنبه",
+          "title": "زبان تخصصی 3 و 4",
+          "teacher": "",
+          "description": "",
+          "link": "https://www.skyroom.online/ch/tums2/shabani",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "792a8167",
+          "weekday": "دوشنبه",
+          "title": "تشخیصی 2",
+          "teacher": "",
+          "description": "",
+          "link": "https://www.skyroom.online/ch/virtualtums/school-of-dentistry",
+          "start_time": "17:00",
+          "end_time": "18:00",
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "1c86d3ad",
+          "weekday": "دوشنبه",
+          "title": "ترمیمی نظری 1",
+          "teacher": "",
+          "description": "محتوا در نوید بارگذاری خواهد شد (آفلاین).",
+          "link": "",
+          "start_time": null,
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "fcc5d9a3",
+          "weekday": "سه‌شنبه",
+          "title": "مبانی پروتز کامل نظری",
+          "teacher": "",
+          "description": "کلاس‌ها آفلاین خواهند بود.",
+          "link": "",
+          "start_time": null,
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "bc01facf",
+          "weekday": "سه‌شنبه",
+          "title": "تجهیزات دندانپزشکی و ارگونومی",
+          "teacher": "",
+          "description": "فعلاً خبری نیست.",
+          "link": "",
+          "start_time": null,
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "ca46ae6c",
+          "weekday": "چهارشنبه",
+          "title": "روش تحقیق",
+          "teacher": "",
+          "description": "",
+          "link": "https://www.skyroom.online/ch/virtualtums/online-session3",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "3df29659",
+          "weekday": "چهارشنبه",
+          "title": "سالمندشناسی",
+          "teacher": "",
+          "description": "",
+          "link": "https://www.skyroom.online/ch/virtualtums/online-session3",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "ac4b08ef",
+          "date": "2026-04-19",
+          "title": "تشخیصی ۱",
+          "teacher": "شیرازیان",
+          "description": "لطفاً سه جلسه‌ای که در نوید بارگذاری شده را حتماً مطالعه داشته باشید. این بخش در قالب کوئیز یا پرسش‌وپاسخ شفاهی نمره خواهد داشت.",
+          "link": "",
+          "start_time": "11:00",
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "c40ff4f2",
+          "date": "2026-04-22",
+          "title": "جلسه جبرانی",
+          "teacher": "شیخ بهایی",
+          "description": "جلسه‌ی جبرانی این هفته و جلسه‌ی هفته‌ی بعد با هم برگزار می‌شود. محتوای آن در نوید برگزار می‌شود.",
+          "link": "",
+          "start_time": "09:00",
+          "end_time": null,
+          "active": true,
+          "created_at": 1776299042
+        },
+        {
+          "id": "4139ca70",
+          "title": "کلاس نیست تسته!",
+          "teacher": "",
+          "description": "",
+          "link": "",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "active": true,
+          "created_at": 1776301089,
+          "weekday": "پنجشنبه"
+        }
+      ],
+      "members": {
+        "1784613415": {
+          "name": "Arian",
+          "last_seen_at": 1776301095
+        }
+      },
+      "sent_reminders": [],
+      "created_at": 1776299042
+    }
+  }
+}
